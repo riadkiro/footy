@@ -1,0 +1,15 @@
+.sidebar {
+    width: 18rem;
+    position: absolute;
+    background: #f7f7f7;
+    height: 100vh;
+
+    .sidebar_items {
+        padding-left: 17px;
+        text-align: left;
+    }
+
+    .sidebar_item {
+        list-style: none;
+    }
+}
